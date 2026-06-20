@@ -1,0 +1,5 @@
+Name: Pramisha Shrestha
+Student Number: 002240486
+
+Course: Android Mobile Development
+Project: Discover Gran Canaria
