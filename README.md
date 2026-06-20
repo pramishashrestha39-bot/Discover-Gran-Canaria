@@ -26,4 +26,7 @@ Discover Gran Canaria is an Android application developed using Android Studio a
 4. Run the application on an Android emulator or physical device.
 
 ## Video Demonstration
-Video link will be added here.
+https://1drv.ms/v/c/89cfa440620482d9/IQBUHSDP6g0IQJnw0PaAQKRhATu9nwDipeZl7Kuza5dGi90?e=Ks1Rb3 
+
+
+
