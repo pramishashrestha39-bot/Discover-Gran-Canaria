@@ -1,0 +1,10 @@
+Name: Pramisha Shrestha
+Student Number: 002240486
+
+Course: Android Mobile Development
+Project: Discover Gran Canaria
+
+GitHub Repository:
+https://github.com/pramishashrestha39-bot/Discover-Gran-Canaria/tree/master
+
+
